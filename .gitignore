@@ -1,0 +1,8 @@
+.vs/
+*.user
+*.filters
+*.vcxproj*
+x64/
+Debug/
+Release/
+"folder template"
