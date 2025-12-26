@@ -71,7 +71,7 @@ int main() {
     run_exercises();
     return 0;
 }
-
+```
 This creates a clean structure rather than mixing all code in a single file.
 
 ---
